@@ -1,0 +1,8 @@
+
+.idea/casumo.iml
+*.xml
+.svn/entries
+.svn/format
+*.svn-base
+*.db
+.svn/wc.db-journal
