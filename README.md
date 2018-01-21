@@ -1,6 +1,18 @@
 # peternikhil28.github.io
 Circular Slot Game Engine
 
+>	Efficiently load, unload and manage resources.
+
+>	Designed and developed a Screen Management System to handle screens easily.
+
+>	Integrated Tween JS into the framework for handling tweens.
+
+>	Implemented classes and object-oriented programming within the framework.
+
+>	Designed and developed an Event Management System to add, execute and handle UI events easily.
+
+This is just a concept design of a slot game made by me.
+
 5x3 Machine - 15 Pay Lines
 
 Pay Lines : 
